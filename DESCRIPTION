@@ -2,7 +2,7 @@ Type: Package
 Package: chooseGCM
 Title: Selecting General Circulation Models for Species Distribution
         Modeling
-Version: 1.0.2
+Version: 1.1
 Authors@R: c(
     person("Dayani", "Bailly", role = "aut",
            comment = c(ORCID = "0000-0002-6954-9902")),
@@ -23,18 +23,19 @@ Imports: checkmate, cluster, cowplot, factoextra, ggcorrplot, ggplot2,
         graphics, httr, methods, reshape2, stats, terra, usedist, utils
 Encoding: UTF-8
 RoxygenNote: 7.3.2
-Suggests: tictoc, testthat, sf, knitr, raster, rmarkdown, stars
+Suggests: tictoc, testthat, sf, raster, rmarkdown, stars
 Config/testthat/edition: 3
 URL: https://luizesser.github.io/chooseGCM/,
         https://github.com/luizesser/chooseGCM
-VignetteBuilder: knitr
 BugReports: https://github.com/luizesser/chooseGCM/issues
-Depends: R (>= 2.10)
+Depends: R (>= 4.1)
+Config/Needs/website: rmarkdown
 NeedsCompilation: no
-Packaged: 2025-01-16 04:20:58 UTC; luizesser
-Author: Dayani Bailly [aut] (<https://orcid.org/0000-0002-6954-9902>),
-  Reginaldo Ré [aut] (<https://orcid.org/0000-0001-6452-3466>),
-  Marcos R. Lima [aut] (<https://orcid.org/0000-0002-5901-0911>),
-  Luíz Esser [aut, cre, cph] (<https://orcid.org/0000-0003-2982-7223>)
+Packaged: 2025-08-18 18:05:47 UTC; luizesser
+Author: Dayani Bailly [aut] (ORCID: <https://orcid.org/0000-0002-6954-9902>),
+  Reginaldo Ré [aut] (ORCID: <https://orcid.org/0000-0001-6452-3466>),
+  Marcos R. Lima [aut] (ORCID: <https://orcid.org/0000-0002-5901-0911>),
+  Luíz Esser [aut, cre, cph] (ORCID:
+    <https://orcid.org/0000-0003-2982-7223>)
 Repository: CRAN
-Date/Publication: 2025-01-16 09:00:02 UTC
+Date/Publication: 2025-08-18 18:50:03 UTC
