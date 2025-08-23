@@ -1,7 +1,7 @@
-16fa443dbad802508538961fb7964626 *DESCRIPTION
+d3a2411f2162db054fc5651dcba3b337 *DESCRIPTION
 364672ad55b8fa41ba53102f7eb6899c *LICENSE
 8f4e47cc54dcf0c42f7ad0253eb226af *NAMESPACE
-257a9467e42b31f7ad9d958f0942b3ef *NEWS.md
+974b3588fe8a61d41b7e341904f3b45d *NEWS.md
 e21871bb87dd95ce14eb12239300e776 *R/WorldClim_data.R
 0aac29378edaf315ed2b607056d8abd6 *R/closestdist_gcms.R
 f4af6f58513747e0ea40f684479060c2 *R/compare_gcms.R
@@ -77,12 +77,12 @@ d2566c35fb0f4eee700894dec63043cf *tests/testthat/test-closestdist_gcms.R
 6497f7790144c687483d7e74337323a4 *tests/testthat/test-compare_gcms.R
 e1e7f87887ff0d411d62cef7159de4d1 *tests/testthat/test-cor_gcms.R
 efd233890b5d636160b0f093d43f7633 *tests/testthat/test-dist_gcms.R
-8b42b6e5051c41ac1944414fafcf7ce6 *tests/testthat/test-env_gcms.R
+7dadcfc1e9097b16e192622ef3567750 *tests/testthat/test-env_gcms.R
 d9cff2c302912fb098b4aa2685eb7e3c *tests/testthat/test-flatten_gcms.R
 4980e08d16ba88dfb87604de0e12d64a *tests/testthat/test-hclust_gcms.R
 5743cf32a8d2ff789fc10561a4e5b46f *tests/testthat/test-import_gcms.R
 47d54126058ce4f398d08ac3008ae014 *tests/testthat/test-kmeans_gcms.R
 edbe8bf0498db3aba0aa07b3c8ae5d5e *tests/testthat/test-montecarlo_gcms.R
-ab0717e4175fc2fed36fadb1c87b2d99 *tests/testthat/test-optk_gcms.R
+8c943328d1fe3691415c8094c2de0a06 *tests/testthat/test-optk_gcms.R
 8d332a5a0295ace3d8a0f655f96a2817 *tests/testthat/test-summary-gcms.R
 3e82a61ce699cde1576443f80905882a *tests/testthat/test-transform_gcms.R
